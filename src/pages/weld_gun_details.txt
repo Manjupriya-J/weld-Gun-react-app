@@ -1,0 +1,16 @@
+angle: 45
+cycle: 12
+date: 2024-12-06
+error: Overheat
+errorCode: 101
+force: 200
+job: Weld A
+programme no: P001
+shift no: Morning
+spot current: 50
+station no: 101
+time: 08:00
+user id: 1
+user name: Alice
+weld count: 5
+weld current: 300

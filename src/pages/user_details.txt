@@ -1,0 +1,16 @@
+station no: 101
+user id: 1
+user name: Alice
+shift no: Morning
+date: 2024-12-06
+time: 08:00
+programme no: P001
+cycle: 12
+angle: 45
+weld current: 300
+spot current: 50
+force: 200
+weld count: 5
+job: Weld A
+error: Overheat
+errorCode: 101
